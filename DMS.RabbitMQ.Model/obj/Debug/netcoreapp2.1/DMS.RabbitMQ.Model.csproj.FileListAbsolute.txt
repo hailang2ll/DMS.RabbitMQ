@@ -1,0 +1,12 @@
+D:\openframe\git-me\DMS.RabbitMQ\DMS.RabbitMQ.Model\bin\Debug\netcoreapp2.1\DMS.RabbitMQ.Model.deps.json
+D:\openframe\git-me\DMS.RabbitMQ\DMS.RabbitMQ.Model\bin\Debug\netcoreapp2.1\DMS.RabbitMQ.Model.dll
+D:\openframe\git-me\DMS.RabbitMQ\DMS.RabbitMQ.Model\bin\Debug\netcoreapp2.1\DMS.RabbitMQ.Model.pdb
+D:\openframe\git-me\DMS.RabbitMQ\DMS.RabbitMQ.Model\bin\Debug\netcoreapp2.1\DMS.RabbitMQ.Service.dll
+D:\openframe\git-me\DMS.RabbitMQ\DMS.RabbitMQ.Model\bin\Debug\netcoreapp2.1\DMS.RabbitMQ.Service.pdb
+D:\openframe\git-me\DMS.RabbitMQ\DMS.RabbitMQ.Model\obj\Debug\netcoreapp2.1\DMS.RabbitMQ.Model.csprojAssemblyReference.cache
+D:\openframe\git-me\DMS.RabbitMQ\DMS.RabbitMQ.Model\obj\Debug\netcoreapp2.1\DMS.RabbitMQ.Model.csproj.CoreCompileInputs.cache
+D:\openframe\git-me\DMS.RabbitMQ\DMS.RabbitMQ.Model\obj\Debug\netcoreapp2.1\DMS.RabbitMQ.Model.AssemblyInfoInputs.cache
+D:\openframe\git-me\DMS.RabbitMQ\DMS.RabbitMQ.Model\obj\Debug\netcoreapp2.1\DMS.RabbitMQ.Model.AssemblyInfo.cs
+D:\openframe\git-me\DMS.RabbitMQ\DMS.RabbitMQ.Model\obj\Debug\netcoreapp2.1\DMS.RabbitMQ.Model.csproj.CopyComplete
+D:\openframe\git-me\DMS.RabbitMQ\DMS.RabbitMQ.Model\obj\Debug\netcoreapp2.1\DMS.RabbitMQ.Model.dll
+D:\openframe\git-me\DMS.RabbitMQ\DMS.RabbitMQ.Model\obj\Debug\netcoreapp2.1\DMS.RabbitMQ.Model.pdb
